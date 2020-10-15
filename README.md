@@ -9,7 +9,7 @@ You can see this web site locally with python 2 as follows:
     $ python -m SimpleHTTPServer
 ````
 
-or with python 3:
+or with python 3:-
 
 ````bash
     $ cd webroot
